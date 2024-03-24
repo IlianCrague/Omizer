@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/omizer2mizer/META"
+  "_build/install/default/lib/omizer2mizer/dune-package"
+  "_build/install/default/lib/omizer2mizer/opam"
+]
+bin: [
+  "_build/install/default/bin/omizer2mizer"
+]
+doc: [
+  "_build/install/default/doc/omizer2mizer/README.md"
+]

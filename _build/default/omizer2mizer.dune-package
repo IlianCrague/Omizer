@@ -1,0 +1,4 @@
+(lang dune 3.11)
+(name omizer2mizer)
+(sections (lib .) (bin ../../bin) (doc ../../doc/omizer2mizer))
+(files (lib (META dune-package opam)) (bin (omizer2mizer)) (doc (README.md)))
